@@ -16,8 +16,8 @@ This project addresses the integration of computer vision and deep learning tech
 ## System Setup
 ```bash
 # 1. Clone the repository and enter the directory
-git clone https://github.com
-cd your-repo-name
+git clone https://github.com/Ridamaamoor/cars_project
+cd fleet-management-service
 
 # 2. Rebuild the environment stack
 python -m venv .venv
