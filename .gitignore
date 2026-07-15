@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+server/__pycache__/
+client/__pycache__/
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+yolo11n.pt
+certs/
